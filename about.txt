@@ -1,0 +1,2 @@
+Hi my name is afaq ali awan
+Im trying to learn git and github with VS code
